@@ -1,0 +1,9 @@
+{
+  "domain": "mysensees",
+  "name": "MySensees",
+  "version": "0.1.0",
+  "config_flow": true,
+  "iot_class": "cloud_polling",
+  "documentation": "https://github.com/SmartSenseSW/mysensees-ha",
+  "loggers": ["custom_components.mysensees"]
+}

@@ -1,0 +1,22 @@
+{
+  "config": {
+    "step": {
+      "user": {
+        "title": "Connect to MySensees",
+        "description": "Enter your MySensees account credentials and gateway ID.",
+        "data": {
+          "username": "Username",
+          "password": "Password",
+          "gateway_id": "Gateway ID"
+        }
+      }
+    },
+    "error": {
+      "invalid_auth": "Invalid authentication",
+      "cannot_connect": "Failed to connect"
+    },
+    "abort": {
+      "already_configured": "This gateway is already configured"
+    }
+  }
+}
